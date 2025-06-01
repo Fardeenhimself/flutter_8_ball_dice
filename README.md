@@ -1,4 +1,7 @@
-# dice_ball
+# 8_Dice_Ball
+
+#Ask a question and click the ball to reveal your unkown answer! 
+#Decisions not answers hehe
 
 A new Flutter project.
 
